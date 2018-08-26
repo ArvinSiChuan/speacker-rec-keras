@@ -1,4 +1,4 @@
-# speacker-rec-keras
+# speaker-rec-keras
 This is a keras implementation of [3D Convolutional Speaker Recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition)  
 The Original Paper is [here](https://arxiv.org/abs/1705.09422).  
 
