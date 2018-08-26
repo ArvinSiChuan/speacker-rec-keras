@@ -1,7 +1,1 @@
-System Level Software Packages:
-
-# Audio files convertion
-ffmpeg
-
-# Visualizaiton 
-graphiz
+ffmpeg graphviz
