@@ -3,4 +3,4 @@ This is a keras implementation of [3D Convolutional Speaker Recognition](https:/
 The Original Paper is [here](https://arxiv.org/abs/1705.09422).  
 
 The python library we used:  
-[SpeechPy](https://arxiv.org/abs/1803.01094) Amirsina Torfi. 2017. astorfi/speech_feature_extraction: SpeechPy. Zenodo. doi:10.5281/zenodo.810392.
+Torfi, Amirsina. 2018. SpeechPy-A Library for Speech Processing and Recognition,arXiv preprint arXiv:1803.01094.
