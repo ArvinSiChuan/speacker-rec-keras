@@ -1,6 +1,0 @@
-ipykernel
-keras
-matplotlib
-pydot
-speechpy
-tensorflow-gpu
