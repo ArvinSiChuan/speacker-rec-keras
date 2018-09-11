@@ -1,0 +1,8 @@
+ipykernel
+keras
+matplotlib
+pydot
+pysoundfile
+speechpy
+tensorflow-gpu
+progressbar
